@@ -1,0 +1,7 @@
+Private Sub CmdIniciar_Click()
+
+    LblMensagem.Caption = 'BEM VINDO AO CURSO DE VISUAL BASIC MOD 1'
+
+
+End Sub
+
